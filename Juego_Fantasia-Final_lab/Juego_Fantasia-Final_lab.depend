@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1490097818 source:e:\librerias\pila.c
+	"pila.h"
+
+1490097818 e:\librerias\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1690246883 source:e:\git hub\juego_fantasia-final_lab\juego_fantasia-final_lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../../../Librerias/pila.h"
+	"time.h"
+
